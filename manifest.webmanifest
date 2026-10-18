@@ -1,0 +1,21 @@
+{
+  "id": "./",
+  "name": "خانه‌یاب",
+  "short_name": "خانه‌یاب",
+  "description": "بازار آگهی‌های خرید، فروش و اجاره‌ی ملک",
+  "lang": "fa",
+  "dir": "rtl",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#F4EEE0",
+  "theme_color": "#1F5C56",
+  "categories": ["business", "lifestyle"],
+  "icons": [
+    { "src": "icons/icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "icons/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "icons/maskable-192.png", "sizes": "192x192", "type": "image/png", "purpose": "maskable" },
+    { "src": "icons/maskable-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}
